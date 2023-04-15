@@ -1,4 +1,5 @@
-# Tech Academy - SE Final Project
+# Tech Academy - SE Final Project Tello E-commerce website
+![image](https://user-images.githubusercontent.com/94292357/232177843-3fac3683-1d2f-40bf-b09d-fb2fe158cfe4.png)
 
 ## Table of contents
 
@@ -29,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://ecommerce-tello.netlify.app/](https://ecommerce-tello.netlify.app/)
+- Live Site URL: [https://se-final-project.netlify.app/](https://se-final-project.netlify.app/)
 
 ## My process
 
